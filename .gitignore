@@ -1,0 +1,6 @@
+tryon-env/
+tryon-env-new/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
